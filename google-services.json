@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "767831601225",
+    "firebase_url": "https://hella-b59fe-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "hella-b59fe",
+    "storage_bucket": "hella-b59fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767831601225:android:e1fb4540eb3490ac06cf98",
+        "android_client_info": {
+          "package_name": "host.exp.exponent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767831601225-jdi9ql7jg592b9e228jgkuol232bk5au.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCftZmEDYPz7KXmeZB6ctEqHyREXAvAyc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767831601225-jdi9ql7jg592b9e228jgkuol232bk5au.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
